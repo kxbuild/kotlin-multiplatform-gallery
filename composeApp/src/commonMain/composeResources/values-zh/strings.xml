@@ -1,0 +1,14 @@
+<resources>
+    <string name="resources_title">来自 Compose Resources 的问候</string>
+    <string name="greeting">%1$s 你好，你有 %2$d 条新消息。</string>
+    <string name="language_name">中文</string>
+    <plurals name="apples">
+        <item quantity="other">%1$d 个苹果</item>
+    </plurals>
+    <string-array name="seasons">
+        <item>春</item>
+        <item>夏</item>
+        <item>秋</item>
+        <item>冬</item>
+    </string-array>
+</resources>

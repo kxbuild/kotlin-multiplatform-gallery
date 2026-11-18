@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Three stacked layers: one shared codebase, several platforms. -->
+    <path
+        android:fillColor="#B4407A"
+        android:pathData="M48,58 L88,70 L48,86 L8,70 Z" />
+    <path
+        android:fillColor="#0B6FB8"
+        android:pathData="M48,38 L88,50 L48,66 L8,50 Z" />
+    <path
+        android:fillColor="#6B4EE6"
+        android:pathData="M48,10 L88,26 L48,46 L8,26 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.35"
+        android:pathData="M48,10 L88,26 L48,28 Z" />
+</vector>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="resources_title">Hello from Compose Resources</string>
+    <string name="greeting">Hi %1$s, you have %2$d new messages.</string>
+    <string name="language_name">English</string>
+    <plurals name="apples">
+        <item quantity="one">%1$d apple</item>
+        <item quantity="other">%1$d apples</item>
+    </plurals>
+    <string-array name="seasons">
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Autumn</item>
+        <item>Winter</item>
+    </string-array>
+</resources>

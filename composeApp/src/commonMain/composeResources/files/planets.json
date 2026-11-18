@@ -1,0 +1,8 @@
+[
+  { "name": "Mercury", "moons": 0, "distance_au": 0.39 },
+  { "name": "Venus", "moons": 0, "distance_au": 0.72 },
+  { "name": "Earth", "moons": 1, "distance_au": 1.0 },
+  { "name": "Mars", "moons": 2, "distance_au": 1.52 },
+  { "name": "Jupiter", "moons": 95, "distance_au": 5.2 },
+  { "name": "Saturn", "moons": 274, "distance_au": 9.54 }
+]
